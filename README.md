@@ -2,8 +2,8 @@
 
 ## 1. Thông tin cá nhân và nhóm
 
-- **MHV:** 2A202601739
-- **Họ và tên:** Chu Thị Yến Khanh
+- **MHV:** 2A202601673
+- **Họ và tên:** Nguyễn Trọng Đức
 - **Tên nhóm:** Nhóm Case 2
 - **Thành viên:** Chu Thị Yến Khanh; Trần Tuấn Trung; Nguyễn Trọng Đức
 - **Case:** Case B – AI Notes: Personal Learning Notes
