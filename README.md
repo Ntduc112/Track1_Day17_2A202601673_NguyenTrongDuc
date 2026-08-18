@@ -4,7 +4,7 @@
 
 - **MHV:** 2A202601673
 - **Họ và tên:** Nguyễn Trọng Đức
-- **Tên nhóm:** Nhóm Case 2
+- **Tên nhóm:** Nhóm ABC
 - **Thành viên:** Chu Thị Yến Khanh; Trần Tuấn Trung; Nguyễn Trọng Đức
 - **Case:** Case B – AI Notes: Personal Learning Notes
 
